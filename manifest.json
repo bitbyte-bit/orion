@@ -1,0 +1,20 @@
+{
+    "name" :"ORION",
+    "short_name" :"orion",
+    "start_url":"./index.html",
+    "display":"standalone",
+    "background_color":"white",
+    "theme_color":"green",
+    "icons":[
+        {
+            "src":"image1.png",
+            "size":"192*192",
+            "type":"image.png"
+        },
+        {
+            "src":"image2.png",
+            "size":"192*192",
+            "type":"image.png"
+        }
+    ]
+}
